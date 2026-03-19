@@ -198,7 +198,7 @@ mysql-connector-python>=8.0.0
 | 🌍 **From** | ROJAVA 🌹 |
 | 💼 **Role** | Full-Stack Developer & AI Student 🤖 |
 | 🧠 **Mission** | Bridging human language and machine logic |
-| 💡 **Philosophy** | `2 + 2 = 1` — ✌🏻 ❤️ 🤍 💛 💚 |
+| 💡 **** | `2 + 2 = 1` — ✌🏻 ❤️ 🤍 💛 💚 |
 
 <br/>
 
