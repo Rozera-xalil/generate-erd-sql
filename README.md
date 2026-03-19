@@ -33,49 +33,49 @@ No manual database design needed — just describe your system in English!
 ### 🔹 Input — Plain English Text
 > *You type a description like this:*
 
-![Input Text](Scrînşot/01_input_text.png)
+![Input Text](images/01_input_text.png)
 
 ---
 
 ### 🔹 Step 1 — NLP Analysis (Dependency Tree)
 > *The system parses every sentence and extracts entities and relationships*
 
-![NLP Analysis](Scrînşot/02_nlp_analysis.png)
+![NLP Analysis](images/02_nlp_analysis.png)
 
 ---
 
 ### 🔹 Step 2 — Expert System Inference
 > *7 rules fire to discover tables, attributes, and relationships*
 
-![Expert System](Scrînşot/03_expert_system.png)
+![Expert System](images/03_expert_system.png)
 
 ---
 
 ### 🔹 Step 3 — ERD Diagram (Terminal)
 > *Each table is displayed as a card with columns, types, and key icons*
 
-![ERD Diagram](Scrînşot/04_erd_diagram.png)
+![ERD Diagram](images/04_erd_diagram.png)
 
 ---
 
 ### 🔹 Step 4 — Generated SQL
 > *Full DDL script with CREATE TABLE, FOREIGN KEY, and INDEX*
 
-![Generated SQL](Scrînşot/05_generated_sql.png)
+![Generated SQL](images/05_generated_sql.png)
 
 ---
 
 ### 🔹 Step 5 — HTML Report Export
 > *A beautiful dark-themed report you can open in any browser*
 
-![HTML Report](Scrînşot/06_html_report.png)
+![HTML Report](images/06_html_report.png)
 
 ---
 
 ### 🔹 Jupyter Notebook — Interactive Mode
 > *Run the notebook, enter your text, and watch the full pipeline*
 
-![Jupyter Notebook](Scrînşot/07_jupyter_notebook.png)
+![Jupyter Notebook](images/07_jupyter_notebook.png)
 
 ---
 
@@ -158,11 +158,8 @@ python nlp_db_system.py
 generate-erd-sql/
 │
 ├── 📓 NLP_DB_Schema_Generator.ipynb   ← Interactive Jupyter Notebook
-├── 🐍 nlp_db_system.py                ← Terminal: ERD + Schema Generator
-├── 🐍 nlp_sql_expert.py               ← Terminal: SQL Query Generator
 ├── 📄 README.md
-├── 📄 requirements.txt
-└── 📁 Scrînşot/                         ← Upload your screenshots here!
+└── 📁 images/                         ← Upload your screenshots here!
     ├── 01_input_text.png
     ├── 02_nlp_analysis.png
     ├── 03_expert_system.png
@@ -194,8 +191,8 @@ mysql-connector-python>=8.0.0
 
 | | |
 |:---:|:---|
-| 🌍 **From** | ROJAVA 🌹 |
-| 💼 **Role** | Full-Stack Developer & AI Student 🤖 |
+| 🌍 **From** | ROJAVA  |
+| 💼 **Role** | Full-Stack Developer & AI Eng Student 🤖 |
 | 🧠 **Mission** | Bridging human language and machine logic |
 | 💡 **** | `2 + 2 = 1` — ✌🏻 ❤️ 🤍 💛 💚 |
 
