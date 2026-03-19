@@ -11,7 +11,6 @@
 [![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge)](https://spacy.io)
 [![Experta](https://img.shields.io/badge/Experta-Expert%20System-8A2BE2?style=for-the-badge)](https://github.com/nilp0inter/experta)
 [![MySQL](https://img.shields.io/badge/MySQL-Ready-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -34,49 +33,49 @@ No manual database design needed — just describe your system in English!
 ### 🔹 Input — Plain English Text
 > *You type a description like this:*
 
-![Input Text](images/01_input_text.png)
+![Input Text](Scrînşot/01_input_text.png)
 
 ---
 
 ### 🔹 Step 1 — NLP Analysis (Dependency Tree)
 > *The system parses every sentence and extracts entities and relationships*
 
-![NLP Analysis](images/02_nlp_analysis.png)
+![NLP Analysis](Scrînşot/02_nlp_analysis.png)
 
 ---
 
 ### 🔹 Step 2 — Expert System Inference
 > *7 rules fire to discover tables, attributes, and relationships*
 
-![Expert System](images/03_expert_system.png)
+![Expert System](Scrînşot/03_expert_system.png)
 
 ---
 
 ### 🔹 Step 3 — ERD Diagram (Terminal)
 > *Each table is displayed as a card with columns, types, and key icons*
 
-![ERD Diagram](images/04_erd_diagram.png)
+![ERD Diagram](Scrînşot/04_erd_diagram.png)
 
 ---
 
 ### 🔹 Step 4 — Generated SQL
 > *Full DDL script with CREATE TABLE, FOREIGN KEY, and INDEX*
 
-![Generated SQL](images/05_generated_sql.png)
+![Generated SQL](Scrînşot/05_generated_sql.png)
 
 ---
 
 ### 🔹 Step 5 — HTML Report Export
 > *A beautiful dark-themed report you can open in any browser*
 
-![HTML Report](images/06_html_report.png)
+![HTML Report](Scrînşot/06_html_report.png)
 
 ---
 
 ### 🔹 Jupyter Notebook — Interactive Mode
 > *Run the notebook, enter your text, and watch the full pipeline*
 
-![Jupyter Notebook](images/07_jupyter_notebook.png)
+![Jupyter Notebook](Scrînşot/07_jupyter_notebook.png)
 
 ---
 
@@ -163,7 +162,7 @@ generate-erd-sql/
 ├── 🐍 nlp_sql_expert.py               ← Terminal: SQL Query Generator
 ├── 📄 README.md
 ├── 📄 requirements.txt
-└── 📁 images/                         ← Upload your screenshots here!
+└── 📁 Scrînşot/                         ← Upload your screenshots here!
     ├── 01_input_text.png
     ├── 02_nlp_analysis.png
     ├── 03_expert_system.png
@@ -207,7 +206,7 @@ mysql-connector-python>=8.0.0
 
 <br/>
 
-![Rojava](https://img.shields.io/badge/From-ROJAVA_🌹-cc0000?style=for-the-badge)
+![Rojava](https://img.shields.io/badge/From-ROJAVA_-cc0000?style=for-the-badge)
 ![Dev](https://img.shields.io/badge/Full--Stack_Dev-06B6D4?style=for-the-badge&logo=code&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Student_🤖-8A2BE2?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP_Enthusiast-22c55e?style=for-the-badge)
@@ -218,9 +217,9 @@ mysql-connector-python>=8.0.0
 
 <div align="center">
 
-**Made with ❤️ by Eng: ROZÊRA XELÎL**
+**Made by Eng: ROZÊRA XELÎL**
 
-*ROJAVA-Başûr-Rojhilat-Bakûr *
+*Rojava-Başûr-Rojhilat-Bakûr *
 
 ⭐ Star this repo if it helped you!
 
