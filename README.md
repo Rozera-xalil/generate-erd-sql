@@ -2,9 +2,8 @@
  Generate ERD &amp; SQL from Natural Language
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Generate+ERD+%2B+SQL+from+Text+%F0%9F%A7%A0;NLP+%E2%86%92+Database+Schema;Expert+System+Edition;by+ROZ%C3%8ARA+XEL%C3%8EL+%F0%9F%8C%B9+from+ROJAVA" alt="Typing SVG" />
 
-# 🗄️ Generate ERD & SQL from Natural Language
+# Generate ERD & SQL from Natural Language
 ### *Type English → Get a full database schema automatically*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -40,28 +39,28 @@ No manual database design needed — just describe your system in English!
 ### 🔹 Step 1 — NLP Analysis (Dependency Tree)
 > *The system parses every sentence and extracts entities and relationships*
 
-![NLP Analysis](images/02_nlp_analysis.png)
+![NLP Analysis](02_nlp_analysis.png)
 
 ---
 
 ### 🔹 Step 2 — Expert System Inference
 > *7 rules fire to discover tables, attributes, and relationships*
 
-![Expert System](images/03_expert_system.png)
+![Expert System](03_expert_system.png)
 
 ---
 
 ### 🔹 Step 3 — ERD Diagram (Terminal)
 > *Each table is displayed as a card with columns, types, and key icons*
 
-![ERD Diagram](images/04_erd_diagram.png)
+![ERD Diagram](04_erd_diagram.png)
 
 ---
 
 ### 🔹 Step 4 — Generated SQL
 > *Full DDL script with CREATE TABLE, FOREIGN KEY, and INDEX*
 
-![Generated SQL](images/05_generated_sql.png)
+![Generated SQL](05_generated_sql.png)
 
 ---
 
