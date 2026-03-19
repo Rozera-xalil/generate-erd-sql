@@ -33,7 +33,7 @@ No manual database design needed — just describe your system in English!
 ### 🔹 Input — Plain English Text
 > *You type a description like this:*
 
-![Input Text](images/01_input_text.png)
+![Input Text](01_input_text.png)
 
 ---
 
